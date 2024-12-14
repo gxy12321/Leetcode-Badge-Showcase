@@ -24,7 +24,7 @@
 </div>
 
 <div align="center">
-<img src="https://leetcode-badge-showcase.vercel.app/api?username=xyguo2020" alt="LeetCode Badges"/>
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=xyguo2020&animated=true" alt="LeetCode Badges"/>
 </div>
 
 ## 🚀 Add to your README page 
